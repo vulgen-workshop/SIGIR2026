@@ -5,7 +5,11 @@ menu: "main"
 ---
 ---
 
+{{<svg "vulgen-image.svg" >}}
+
 The **VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval** will be held as a full-day workshop at the [49th International ACM SIGIR Conference on Research and Development in Information Retrieval](https://sigir2026.github.io/) in Naarm/Melbourne, Australia, 20--24 July 2026.
+
+[{{<svg "sigir2026-logo.svg" >}}](https://sigir2026.github.io/)
 
 **Venue:** Melbourne Convention and Exhibition Centre, 1 Convention Centre Place, South Wharf 3006.
 

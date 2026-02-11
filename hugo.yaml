@@ -36,12 +36,13 @@ params:
   icon: "favicon.ico"
   image: "favicon.svg"
   imageMaxWidth: 400
+  logoPath: "images/logo.svg"
   logoWidth: 90
   mobileMenu: true
   mobileMenuOutline: true
   poweredby: false
   realfavicongenerator: true
-  sidebar: true
+  sidebar: false
   submitted: true
   menuInHeader: false
   mainSections:

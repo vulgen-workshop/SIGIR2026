@@ -6,7 +6,7 @@ weight: 10
 
 {{<img src="images/shuoqi.jpg" alt="Shuoqi Sun" width="200" class="left">}}
 
-[**Shuoqi Sun**](https://shuoqisun.github.io) (Corresponding)
+[**Shuoqi Sun**](https://shuoqisun.github.io)
 
 RMIT University, Australia
 
@@ -54,7 +54,7 @@ University of Amsterdam, Netherlands
 
 {{<img src="images/damiano.jpg" alt="Damiano Spina" width="200" class="left">}}
 
-[**Dr. Damiano Spina**](http://www.damianospina.com) (Corresponding)
+[**Dr. Damiano Spina**](http://www.damianospina.com)
 
 RMIT University, Australia
 
