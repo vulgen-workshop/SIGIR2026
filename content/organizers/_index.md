@@ -4,54 +4,58 @@ weight: 10
 ---
 
 
-{{<img src="images/jacek.jpg" alt="Jacek Gwizdka" class="left">}}
+{{<img src="images/shuoqi.jpg" alt="Shuoqi Sun" width="200" class="left">}}
 
-[Associate Prof. Jacek Gwizdka](https://jacekg.ischool.utexas.edu/)
+[**Shuoqi Sun**](https://shuoqisun.github.io) (Corresponding)
 
- University of Texas, USA
-
-{{< clear >}}
-{{<img src="images/javed.jpg" alt="Javed Mostafa" width="200" class="left">}}
-
-[Prof. Javed Mostafa](https://ischool.utoronto.ca/faculty-profile/javed-mostafa/)
-
-University of Toronto, Canada
+RMIT University, Australia
 
 {{< clear >}}
 
-{{<img src="images/min.jpg" alt="Min Zhang" width="200" class="left">}}
+{{<img src="images/sara.jpg" alt="Sara Allawati" width="200" class="left">}}
 
-[Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/)
+**Sara Allawati**
 
- Tsinghua University, China
+RMIT University, Australia
 
 {{< clear >}}
-{{<img src="images/kaixin.jpg" alt="Kaixin Ji" width="200" class="left">}}
 
-[Kaixin Ji](https://ji-kaixin.com)
+{{<img src="images/laura.jpg" alt="Laura Dietz" width="200" class="left">}}
 
- RMIT University, Australia
+[**Laura Dietz**](https://www.cs.unh.edu/~dietz/publications/index.html)
+
+University of New Hampshire, United States
+
 {{< clear >}}
-{{<img src="images/yashar.jpg" alt="Yashar Moshfeghi" width="200" class="left">}}
 
-[Associate Prof. Yashar Moshfeghi](https://academic.yashmosh.com)
+{{<img src="images/madhurima.jpg" alt="Madhurima Khirbat" width="200" class="left">}}
 
- University of Strathclyde, UK
+**Madhurima Khirbat**
 
- {{< clear >}}
+RMIT University, Australia
 
-{{<img src="images/tuukka.jpg" alt="Tuukka Ruotsalo" width="200" class="left">}}
+{{< clear >}}
 
- [Associate Prof. Tuukka Ruotsalo](https://www.lut.fi/fi/profiilit/tuukka-ruotsalo)
- 
- University of Copenhagen, Denmark & 
- 
- LUT University, Finland
- {{< clear >}}
+{{<img src="images/bhaskar.jpg" alt="Bhaskar Mitra" width="200" class="left">}}
+
+[**Bhaskar Mitra**](https://bhaskar-mitra.github.io/)
+
+Independent Researcher, Canada
+
+{{< clear >}}
+
+{{<img src="images/maarten.jpg" alt="Maarten de Rijke" width="200" class="left">}}
+
+[**Maarten de Rijke**](https://staff.fnwi.uva.nl/m.derijke/)
+
+University of Amsterdam, Netherlands
+
+{{< clear >}}
 
 {{<img src="images/damiano.jpg" alt="Damiano Spina" width="200" class="left">}}
- [Dr. Damiano Spina](https://www.damianospina.com)
- 
- RMIT University, Australia
- {{< clear >}}
 
+[**Dr. Damiano Spina**](http://www.damianospina.com) (Corresponding)
+
+RMIT University, Australia
+
+{{< clear >}}
