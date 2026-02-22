@@ -37,6 +37,7 @@ params:
   image: "favicon.svg"
   imageMaxWidth: 400
   # logoPath: "images/logo.svg"
+  logo: false
   logoWidth: 90
   mobileMenu: true
   mobileMenuOutline: true
