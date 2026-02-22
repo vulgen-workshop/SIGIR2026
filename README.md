@@ -45,6 +45,19 @@ To add a new page, create `content/<page-name>/_index.md` with a `title` and `we
 
 ---
 
+## First-Time Repository Setup (GitHub Pages)
+
+If you forked or transferred this repository and the site isn't deploying, you need to enable GitHub Pages once:
+
+1. Go to **Settings → Pages** in the repository on GitHub.
+2. Under **"Build and deployment" → "Source"**, select **"GitHub Actions"**.
+3. Click **Save**.
+4. Re-run any failed workflow under the **Actions** tab.
+
+This is a one-time step — deployments will succeed automatically from then on.
+
+---
+
 ## Local Preview (optional)
 
 ```bash
