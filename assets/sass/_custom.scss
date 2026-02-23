@@ -28,7 +28,7 @@
   --color-mobile-menu:            #22395a;
 }
 
-/* Override Zen theme footer alignment */
-.footer {
+/* Footer: keep copyright centered, acknowledgement left */
+.footer__acknowledgement {
   text-align: left;
 }
