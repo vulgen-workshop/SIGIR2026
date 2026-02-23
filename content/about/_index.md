@@ -9,7 +9,7 @@ Have you ever used or deployed a generative system and wondered, "What could pos
 
 *What is the format of VulGEn Workshop?* VulGen is an interactive, full-day workshop designed to foster deep collaboration. Expect a dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions
 
-*Why VulGen Workshop Matters* Generative systems are rapidly transforming both academic research and industrial practices. These systems are increasingly integrated into information access and IR tasks and continue to evolve at a substantial pace. Integrating these models into daily workflows exposes critical vulnerabilities, including adversarial attacks, inherent biases, and negative impacts on user behavior, which can lead to suboptimal or even detrimental outcomes.
+*Why VulGen Workshop Matters?* Generative systems are rapidly transforming both academic research and industrial practices. These systems are increasingly integrated into information access and IR tasks and continue to evolve at a substantial pace. Integrating these models into daily workflows exposes critical vulnerabilities, including adversarial attacks, inherent biases, and negative impacts on user behavior, which can lead to suboptimal or even detrimental outcomes.
 
 
 <!-- to map evolving generative sys landscape. Through a full day of structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation.
