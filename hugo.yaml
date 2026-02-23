@@ -31,18 +31,13 @@ params:
   contact: "shuoqi.sun@student.rmit.edu.au"
   description: "VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval at ACM SIGIR 2026"
   dateformat: "2 January, 2006"
-  # favicon: "favicon.png"
-  favicon: ""
-
+  favicon: "favicon.png"
   feedlinks: false
-  icon: ""
-  image: ""
-  # icon: "favicon.ico"
-  # image: "favicon.svg"
+  icon: "favicon.ico"
+  image: "favicon.svg"
   imageMaxWidth: 400
   logo: false
-  logoPath: ""
-  # logoPath: "images/logo.svg"
+  logoPath: "images/logo.svg"
   logoWidth: 90
   mobileMenu: true
   mobileMenuOutline: true
