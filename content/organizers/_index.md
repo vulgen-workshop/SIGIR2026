@@ -4,7 +4,7 @@ weight: 10
 ---
 
 
-{{<img src="images/shuoqi.jpg" alt="Shuoqi Sun" width="200" class="left">}}
+{{<img src="images/shuoqi.jpeg" alt="Shuoqi Sun" width="200" class="left">}}
 
 [**Shuoqi Sun**](https://shuoqisun.github.io)
 
