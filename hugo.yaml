@@ -40,6 +40,7 @@ params:
   # icon: "favicon.ico"
   # image: "favicon.svg"
   imageMaxWidth: 400
+  logo: false
   logoPath: ""
   # logoPath: "images/logo.svg"
   logoWidth: 90
