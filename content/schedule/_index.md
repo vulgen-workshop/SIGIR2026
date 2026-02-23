@@ -3,7 +3,7 @@ title: "Schedule"
 draft: false
 weight: 5
 ---
-
+## Friday, 24 July 2026
 | Time | Event |
 | --- | --- |
 | 9:00 -- 9:15 | Opening Remarks |
