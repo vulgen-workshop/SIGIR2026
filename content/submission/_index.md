@@ -3,7 +3,7 @@ title: "Call for Submissions"
 weight: 4
 ---
 
-The **VulGen** workshop adopts a *Call for Statements* to welcome visionary ideas and conceptual depth alongside empirical results. Submissions must follow the SIGIR template and range from two to six pages. We especially value theoretical perspectives and practical system vulnerability demonstrations.
+The **VulGen** workshop adopts a *Call for Statements* to welcome visionary ideas and conceptual depth alongside empirical results. Submissions must follow the SIGIR template and be within *two* pages. We especially value theoretical perspectives and practical system vulnerability demonstrations.
 
 Key areas include, but are not limited to:
 
@@ -18,6 +18,8 @@ Key areas include, but are not limited to:
 
 ## Selection Process
 
-The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted statements will be invited to present. We also encourage researchers without accepted submissions to attend and participate, subject to venue capacity.
+The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. 
+
+Authors of accepted statements will be invited to present. Other authors will be invited to submit posters for engaging discussion. We also encourage researchers without accepted submissions to attend and participate, subject to venue capacity.
 
 Submission details will be announced soon. Please check back for updates.
