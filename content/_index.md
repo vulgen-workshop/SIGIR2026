@@ -11,7 +11,7 @@ menu: "main"
 
 <!-- {{< clear >}} -->
 
-The **International Workshop on Vulnerabilities in Generative Systems for Information Retrieval (VelGen'26)** will be held as a full-day workshop at the [49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)](https://sigir2026.org/en-AU) in Naarm/Melbourne, Australia, on 24 July 2026. 
+The **International Workshop on Vulnerabilities in Generative Systems for Information Retrieval (VulGen'26)** will be held as a full-day workshop at the [49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)](https://sigir2026.org/en-AU) in Naarm/Melbourne, Australia, on 24 July 2026. 
 
 **Venue:** Melbourne Convention and Exhibition Centre, 1 Convention Centre Place, South Wharf 3006.
 
