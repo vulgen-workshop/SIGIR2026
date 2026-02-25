@@ -16,7 +16,9 @@ The **International Workshop on Vulnerabilities in Generative Systems for Inform
 **Venue:** Melbourne Convention and Exhibition Centre, 1 Convention Centre Place, South Wharf 3006.
 
 
-Have you ever used or deployed a generative system and wondered, "What could possibly go wrong?" Have you spotted hidden vulnerabilities in these systems that the rest of the community has overlooked? Have you questioned the extent to which generative systems might negatively affect people and society? The VulGen workshop is exactly where you can share those ideas and draw the attention of your peers to collaborate and investigate these potential pitfalls. Don't hesitate; submit a statement by the deadline to highlight the vulnerabilities you have identified.
+The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through one-day structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. We expect to build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes. You can expect a dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions. 
+
+<!-- Have you ever used or deployed a generative system and wondered, "What could possibly go wrong?" Have you spotted hidden vulnerabilities in these systems that the rest of the community has overlooked? Have you questioned the extent to which generative systems might negatively affect people and society? The VulGen workshop is exactly where you can share those ideas and draw the attention of your peers to collaborate and investigate these potential pitfalls. Don't hesitate; submit a statement by the deadline to highlight the vulnerabilities you have identified. -->
 
 Review VulGen'26 workshop details on the [About]({{< relref "about" >}}) page.
 
