@@ -1,13 +1,25 @@
 ---
-title: "Schedule"
+title: "Timeline"
 draft: false
 weight: 5
 ---
-## Friday, 24 July 2026
+# VulGen'26 Timeline
+
+## Key Dates
+
+- TBA: Deadline for statement submission
+- TBA: Notification of invitations
+- TBA: Deadline for short paper submission
+- Friday, 24 July, 2026: VulGen'26 workshop at [ACM SIGIR 2026 Conference](https://sigir2026.github.io/), Naarm/Melbourne, Australia
+
+
+## VulGen'26 Program Schedule (Tentative)
+
+### Friday, 24 July 2026
 | Time | Event |
 | --- | --- |
 | 9:00 -- 9:15 | Opening Remarks |
-| 9:15 -- 10:30 | Lightning Presentations |
+| 9:15 -- 10:30 | Paper Presentations |
 | 10:30 -- 11:00 | *Coffee Break* |
 | 11:00 -- 12:00 | Poster and Demonstrations |
 | 12:00 -- 12:30 | Breakout Group Formation |
