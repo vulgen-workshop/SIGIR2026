@@ -50,3 +50,5 @@ As VulGen'26 is not designed as mini conference, we include break-out discussion
 Besides presentations, all authors will be invited to submit posters to share ideas and engage in discussion. We also encourage researchers without submissions to attend and participate, subject to venue capacity.
 
 <!-- Submission details will be announced soon. Please check back for updates. -->
+Submit now:
+{{< button src="https://easychair.org/conferences/?conf=sigir2026" text="Submit through EasyChair" newtab="true" class="button--small" >}}
