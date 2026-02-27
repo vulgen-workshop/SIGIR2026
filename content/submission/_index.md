@@ -2,7 +2,7 @@
 title: "Call for Submissions"
 weight: 4
 ---
-# Call for Papers
+# Call for Submissions
 
 ## Summary
 The VulGen'26 workshop uses a *single-anonymous, two-stage* submission procedure. We first invite researchers to submit concise *statements* (extended abstracts). Authors of novel and high-quality statements will then be invited to submit *expanded short papers* for the official workshop proceedings.
