@@ -1,6 +1,6 @@
 ---
 title: "About VulGen'26"
-weight: 2
+weight: 12
 ---
 
 Check out our [Call for Submissions]({{< relref "submission" >}}) page.
