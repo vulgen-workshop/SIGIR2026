@@ -1,5 +1,5 @@
 ---
-title: "# Organizing Team"
+title: "Organizing Team"
 weight: 10
 ---
 
