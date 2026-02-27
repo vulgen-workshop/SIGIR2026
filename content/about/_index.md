@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About VulGen'26"
 weight: 2
 ---
-
-# About VulGen'26
 
 Check out our [Call for Submissions]({{< relref "submission" >}}) page.
 

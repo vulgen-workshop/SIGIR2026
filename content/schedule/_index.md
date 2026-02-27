@@ -1,9 +1,8 @@
 ---
-title: "Timeline"
+title: "VulGen'26 Timeline"
 draft: false
 weight: 5
 ---
-# VulGen'26 Timeline
 
 ## Key Dates
 
