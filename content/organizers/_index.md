@@ -3,6 +3,8 @@ title: "Organizers"
 weight: 10
 ---
 
+# Organizing Team
+
 
 {{<img src="images/shuoqi.jpeg" alt="Shuoqi Sun" width="200" class="left">}}
 
