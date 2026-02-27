@@ -1,5 +1,5 @@
 ---
-title: "Organizing Team"
+title: "Organizers"
 weight: 10
 ---
 

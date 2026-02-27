@@ -1,5 +1,5 @@
 ---
-title: "VulGen'26 Timeline"
+title: "Timeline"
 draft: false
 weight: 5
 ---
