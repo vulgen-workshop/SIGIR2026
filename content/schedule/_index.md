@@ -12,9 +12,8 @@ weight: 5
 - Friday, 24 July, 2026: VulGen'26 workshop at [ACM SIGIR 2026 Conference](https://sigir2026.github.io/), Naarm/Melbourne, Australia
 
 
-## VulGen'26 Program Schedule (Tentative)
+## VulGen'26 Schedule (Tentative) - Friday, 24 July 2026
 
-### Friday, 24 July 2026
 | Time | Event |
 | --- | --- |
 | 9:00 -- 9:15 | Opening Remarks |
