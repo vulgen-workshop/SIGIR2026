@@ -51,7 +51,7 @@ Key areas include, but are not limited to:
 
 ## Selection Process
 
-The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted statements will be invited to present at the workshop.
+The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted abstract will be invited to present at the workshop.
 
 <!-- Reviewers will have access to your information and any shared resources, but you will not know who the reviewers are. -->
 
