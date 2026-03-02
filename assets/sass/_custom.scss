@@ -43,3 +43,9 @@
 .footer__acknowledgement {
   text-align: left;
 }
+
+/* Submission page: prevent long inline code from overflowing on mobile */
+.section-page--submission code {
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
