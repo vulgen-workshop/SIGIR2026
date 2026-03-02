@@ -20,9 +20,16 @@ The VulGen'26 brings together the IR community and related disciplines (e.g., cy
 
 <!-- Have you ever used or deployed a generative system and wondered, "What could possibly go wrong?" Have you spotted hidden vulnerabilities in these systems that the rest of the community has overlooked? Have you questioned the extent to which generative systems might negatively affect people and society? The VulGen workshop is exactly where you can share those ideas and draw the attention of your peers to collaborate and investigate these potential pitfalls. Don't hesitate; submit a statement by the deadline to highlight the vulnerabilities you have identified. -->
 
-Review VulGen'26 workshop details on the [About]({{< relref "about" >}}) page.
+See submission details: [Call for Submissions]({{< relref "submission" >}})
 
-See the [Call for Submissions]({{< relref "submission" >}}) page for submission details.
+See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}}) page.
 
+
+## Important Dates
+All important dates are by the end of day in Anywhere on Earth (AOE) time.
+
+- Extended abstract submission: 27 April 2026
+- Notification: 21 May 2026
+- Camera ready: 15 June 2026
 
 <!-- Generative systems are rapidly transforming both academic research and industrial practices. These systems are increasingly integrated into information access and information retrieval (IR) tasks and continue to evolve at a substantial pace. Integrating these models into daily workflows exposes critical vulnerabilities, including adversarial attacks, inherent biases, and negative impacts on user behavior, which can lead to suboptimal or even detrimental outcomes. The VulGen workshop brings together the IR community and related disciplines (e.g., cyber security) to map this evolving landscape. Through a full day of structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. -->
