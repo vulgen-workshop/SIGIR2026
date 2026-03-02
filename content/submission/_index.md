@@ -3,24 +3,37 @@ title: "Call for Submissions"
 weight: 4
 ---
 
-## Summary
-The VulGen'26 workshop uses a *single-anonymous, two-stage* submission procedure. We first invite researchers to submit concise *statements* (extended abstracts). Authors of novel and high-quality statements will then be invited to submit *expanded short papers* for the official workshop proceedings.
+<!-- ## Summary -->
+<!-- The VulGen'26 workshop uses a *single-anonymous, two-stage* submission procedure. We first invite researchers to submit concise *statements* (extended abstracts). Authors of novel and high-quality statements will then be invited to submit *expanded short papers* for the official workshop proceedings. -->
 
-Statements should be submitted as PDF files via the EasyChair system by selecting the “SIGIR 2026 Workshop on VulGen” track. You can submit by clicking the button below:
+
+<!-- Statements should be submitted as PDF files via the EasyChair system by selecting the “SIGIR 2026 Workshop on VulGen” track. You can submit by clicking the button below: -->
+
+## Submission Guidelines
+We invite extended abstract submissions of 2 pages (and additional pages for references, acknowledgments, and positionality statements) in ACM SIGIR format. 
+
+Submissions should be in English and not be anonymized (i.e., containing author names, affiliation, and e-mail address).
+
+Statements should be submitted as PDF files via the EasyChair system by selecting the “2026 SIGIR Workshop on Vulnerabilities in Generative Systems for Information Retrieval” track: 
 
 {{< button src="https://easychair.org/conferences/?conf=sigir2026" text="Submit through EasyChair" newtab="true" class="button--small" >}}
 
-## Submission Guidelines
-1. Call for Statements: 
+Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use sigconf proceedings template for LaTeX and the Interim Template for Word).
+
+Submitting to this workshop  indicates your agreement to and compliance with the common [ACM and SIGIR 2026 Policies and Requirements](https://sigir2026.org/pages/submissions/submission-policies-and-information).
+
+
+
+<!-- 1. Call for Statements: 
    - Statements should have a maximum of *2 pages* (excluding references). Submissions must strictly follow the standard SIGIR template.
-2. Invited Papers for Proceedings: 
+1. Invited Papers for Proceedings: 
    - Following the peer-review of Phase 1 statements, authors of highly rated and innovative submissions will be invited to expand their work.
    - Invited short papers, maximum of 4 pages (excluding references). These must also adhere to the standard SIGIR template and will be included in the formal workshop proceedings.
-3. Other Guidelines:
+2. Other Guidelines:
    - Both submissions must be in English and in PDF format. 
    - Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use sigconf proceedings template for LaTeX and the Interim Template for Word).
    - Keywords are required to include. The inclusion of ACM’s CCS concepts is up to the authors.
-   - For LaTeX, the following should be used: `\documentclass[sigconf,natbib=true,review]{acmart}`
+   - For LaTeX, the following should be used: `\documentclass[sigconf,natbib=true,review]{acmart}` -->
 
 ## Relevant Areas
 
@@ -37,16 +50,16 @@ Key areas include, but are not limited to:
 - *Surveys and Reviews:* Comprehensive overviews of the current landscape of generative system vulnerabilities.
 - *Industrial Perspectives:* Hypotheses and practices regarding the real-world vulnerabilities of generative systems in production.
 
-## Single-anonymous Review
+## Selection Process
 
-The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. 
+The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted statements will be invited to present at the workshop.
 
-Reviewers will have access to your information and any shared resources, but you will not know who the reviewers are.
+<!-- Reviewers will have access to your information and any shared resources, but you will not know who the reviewers are. -->
 
-## Paper Presentation
+<!-- ## Paper Presentation
 As VulGen'26 is not designed as mini conference, we include break-out discussion and other engaging sessions. Therefore, we will only invite several spotlight papers to present. The number of spotlight papers will be determined after reviewing. The presented papers are complete or a subset of the invited papers for the workshop proceedings.
 
-Besides presentations, all authors will be invited to submit posters to share ideas and engage in discussion. We also encourage researchers without submissions to attend and participate, subject to venue capacity.
+Besides presentations, all authors will be invited to submit posters to share ideas and engage in discussion. We also encourage researchers without submissions to attend and participate, subject to venue capacity. -->
 
 <!-- Submission details will be announced soon. Please check back for updates. -->
 Submit now:
