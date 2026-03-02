@@ -33,20 +33,21 @@ Submitting to this workshop  indicates your agreement to and compliance with the
    - Keywords are required to include. The inclusion of ACM’s CCS concepts is up to the authors.
    - For LaTeX, the following should be used: `\documentclass[sigconf,natbib=true,review]{acmart}` -->
 
-## Relevant Areas
+## Topics of Interest
 
 We welcome a broad range of submissions, including visionary ideas, conceptual explorations, and preliminary empirical results. We strongly encourage submissions that offer theoretical perspectives or demonstrate practical system vulnerabilities.
 
 Key areas include, but are not limited to:
 
-- *Perspective Statements*: Identifying new research trajectories, raising awareness of specific vulnerabilities and lacking resources, or proposing novel methodologies for vulnerability research.
-- *Theoretical Statements:* Frameworks and models for characterizing and formalizing vulnerabilities in generative systems.
-- *System Vulnerability Statements:* Novel attack schemas and the identification of flaws or biases within current system architectures and applications.
-- *User-Centric Statements:* Research of how vulnerabilities of generative systems influence user behavior and information perception, with an emphasis on negative impact.
-- *Resource Statements:* Introduction of evaluation benchmarks, platforms, or open-source tools for the community.
-- *Practical Demonstrations:* Real-world case studies, including demonstrations of state-of-the-art attacks or exploits.
-- *Surveys and Reviews:* Comprehensive overviews of the current landscape of generative system vulnerabilities.
-- *Industrial Perspectives:* Hypotheses and practices regarding the real-world vulnerabilities of generative systems in production.
+- Perspective Statements: Identifying new research trajectories, raising awareness of specific vulnerabilities and lacking resources, or proposing novel methodologies for vulnerability research.
+- Theoretical Statements: Frameworks and models for characterizing and formalizing vulnerabilities in generative systems.
+- System Vulnerability Statements: Novel attack schemas and the identification of flaws or biases within current system architectures and applications.
+- User-Centric Statements: Research of how vulnerabilities of generative systems influence user behavior and information perception, with an emphasis on negative impact.
+- Resource Statements: Introduction of evaluation benchmarks, platforms, or open-source tools for the community.
+- Practical Demonstrations: Real-world case studies, including demonstrations of state-of-the-art attacks or exploits.
+- Surveys and Reviews: Comprehensive overviews of the current landscape of generative system vulnerabilities.
+- Industrial Perspectives: Hypotheses and practices regarding the real-world vulnerabilities of generative systems in production.
+
 
 ## Selection Process
 
@@ -60,6 +61,12 @@ As VulGen'26 is not designed as mini conference, we include break-out discussion
 Besides presentations, all authors will be invited to submit posters to share ideas and engage in discussion. We also encourage researchers without submissions to attend and participate, subject to venue capacity. -->
 
 <!-- Submission details will be announced soon. Please check back for updates. -->
-Submit now:
 
-{{< button src="https://easychair.org/conferences/?conf=sigir2026" text="Submit through EasyChair" newtab="true" class="button--small" >}}
+
+## Important Dates
+
+All key dates are by the end of day in Anywhere on Earth.
+
+- Extended abstract submission: 27 April 2026
+- Notification: 21 May 2026
+- Camera ready: 15 June 2026
