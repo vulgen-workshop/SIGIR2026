@@ -21,7 +21,7 @@ RMIT University, Australia
 
 {{<img src="images/laura.jpg" alt="Prof. Laura Dietz" width="200" class="left">}}
 
-[**Laura Dietz**](https://www.cs.unh.edu/~dietz/)
+[**Prof. Laura Dietz**](https://www.cs.unh.edu/~dietz/)
 
 University of New Hampshire, United States
 
@@ -37,7 +37,7 @@ RMIT University, Australia
 
 {{<img src="images/bhaskar.jpeg" alt="Dr. Bhaskar Mitra" width="200" class="left">}}
 
-[**Bhaskar Mitra**](https://bhaskar-mitra.github.io/)
+[**Dr. Bhaskar Mitra**](https://bhaskar-mitra.github.io/)
 
 Independent Researcher, Canada
 
@@ -45,13 +45,13 @@ Independent Researcher, Canada
 
 {{<img src="images/maarten.jpg" alt="Prof.dr. Maarten de Rijke" width="200" class="left">}}
 
-[**Maarten de Rijke**](https://staff.fnwi.uva.nl/m.derijke/)
+[**Prof.dr. Maarten de Rijke**](https://staff.fnwi.uva.nl/m.derijke/)
 
 University of Amsterdam, Netherlands
 
 {{< clear >}}
 
-{{<img src="images/damiano.jpg" alt="Damiano Spina" width="200" class="left">}}
+{{<img src="images/damiano.jpg" alt="Dr. Damiano Spina" width="200" class="left">}}
 
 [**Dr. Damiano Spina**](http://www.damianospina.com)
 
