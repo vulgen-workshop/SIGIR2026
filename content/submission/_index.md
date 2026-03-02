@@ -42,7 +42,7 @@ Key areas include, but are not limited to:
 - Perspective Statements: Identifying new research trajectories, raising awareness of specific vulnerabilities and lacking resources, or proposing novel methodologies for vulnerability research.
 - Theoretical Statements: Frameworks and models for characterizing and formalizing vulnerabilities in generative systems.
 - System Vulnerability Statements: Novel attack schemas and the identification of flaws or biases within current system architectures and applications.
-- User-Centric Statements: Research of how vulnerabilities of generative systems influence user behavior and information perception, with an emphasis on negative impact.
+- User-Centric Statements: Research on how vulnerabilities of generative systems influence user behavior and information perception, with an emphasis on negative impact.
 - Resource Statements: Introduction of evaluation benchmarks, platforms, or open-source tools for the community.
 - Practical Demonstrations: Real-world case studies, including demonstrations of state-of-the-art attacks or exploits.
 - Surveys and Reviews: Comprehensive overviews of the current landscape of generative system vulnerabilities.

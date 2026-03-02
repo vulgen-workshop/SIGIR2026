@@ -1,5 +1,5 @@
 ---
-title: "Timeline"
+title: "Schedule"
 draft: false
 weight: 5
 ---
