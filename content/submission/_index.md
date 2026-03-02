@@ -20,7 +20,7 @@ Statements should be submitted as PDF files via the EasyChair system by selectin
    - Both submissions must be in English and in PDF format. 
    - Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use sigconf proceedings template for LaTeX and the Interim Template for Word).
    - Keywords are required to include. The inclusion of ACM’s CCS concepts is up to the authors.
-   - For LaTeX, the following should be used: ```\documentclass[sigconf,natbib=true,review]{acmart}```
+   - For LaTeX, the following should be used: `\documentclass[sigconf,natbib=true,review]{acmart}`
 
 ## Relevant Areas
 
