@@ -13,7 +13,7 @@ RMIT University, Australia
 
 {{<img src="images/sara.jpg" alt="Sara Allawati" width="200" class="left">}}
 
-**Sara Allawati**
+[**Sara Allawati**](https://www.linkedin.com/in/sara-a-l/)
 
 RMIT University, Australia
 
@@ -27,15 +27,15 @@ University of New Hampshire, United States
 
 {{< clear >}}
 
-{{<img src="images/madhurima.jpg" alt="Madhurima Khirbat" width="200" class="left">}}
+{{<img src="images/madhurima.jpeg" alt="Madhurima Khirbat" width="200" class="left">}}
 
-**Madhurima Khirbat**
+[**Madhurima Khirbat**](https://www.linkedin.com/in/madhurima-khirbat/)
 
 RMIT University, Australia
 
 {{< clear >}}
 
-{{<img src="images/bhaskar.jpg" alt="Bhaskar Mitra" width="200" class="left">}}
+{{<img src="images/bhaskar.jpeg" alt="Bhaskar Mitra" width="200" class="left">}}
 
 [**Bhaskar Mitra**](https://bhaskar-mitra.github.io/)
 
