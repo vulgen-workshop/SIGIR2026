@@ -14,9 +14,7 @@ We invite extended abstract submissions of 2 pages (and additional pages for ref
 
 Submissions should be in English and not be anonymized (i.e., containing author names, affiliation, and e-mail address).
 
-Statements should be submitted as PDF files via the EasyChair system by selecting the “2026 SIGIR Workshop on Vulnerabilities in Generative Systems for Information Retrieval” track: 
-
-{{< button src="https://easychair.org/conferences/?conf=sigir2026" text="Submit through EasyChair" newtab="true" class="button--small" >}}
+Statements should be submitted as PDF files via the [EasyChair system by selecting the “2026 SIGIR Workshop on Vulnerabilities in Generative Systems for Information Retrieval” track](https://easychair.org/conferences/?conf=sigir2026).
 
 Suitable LaTeX, Word, and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official) templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use sigconf proceedings template for LaTeX and the Interim Template for Word).
 
