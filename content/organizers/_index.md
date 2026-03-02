@@ -21,7 +21,7 @@ RMIT University, Australia
 
 {{<img src="images/laura.jpg" alt="Laura Dietz" width="200" class="left">}}
 
-[**Laura Dietz**](https://www.cs.unh.edu/~dietz/publications/index.html)
+[**Laura Dietz**](https://www.cs.unh.edu/~dietz/)
 
 University of New Hampshire, United States
 

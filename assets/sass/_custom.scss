@@ -28,6 +28,17 @@
   --color-mobile-menu:            #22395a;
 }
 
+/* Header: centre title and nav vertically stacked */
+.header {
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.header__region {
+  margin-inline-start: 0;
+}
+
 /* Footer: keep copyright centered, acknowledgement left */
 .footer__acknowledgement {
   text-align: left;
