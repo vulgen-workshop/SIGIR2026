@@ -31,12 +31,15 @@ See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}}) page.
 
 ## Important Dates
 
-All key dates are by the end of day in Anywhere on Earth.
+All key dates are by the end of day in Anywhere on Earth (AOE).
 
 - Proposal submission - 27 April 2026
 - Notification - 21 May 2026
 - Camera-ready submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
+
+
+If you have any questions, please contact us via vulgen-workshop-sigir2026@easychair.org
 
 
 <!-- Generative systems are rapidly transforming both academic research and industrial practices. These systems are increasingly integrated into information access and information retrieval (IR) tasks and continue to evolve at a substantial pace. Integrating these models into daily workflows exposes critical vulnerabilities, including adversarial attacks, inherent biases, and negative impacts on user behavior, which can lead to suboptimal or even detrimental outcomes. The VulGen workshop brings together the IR community and related disciplines (e.g., cyber security) to map this evolving landscape. Through a full day of structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. -->

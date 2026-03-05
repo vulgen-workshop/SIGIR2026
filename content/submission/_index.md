@@ -88,7 +88,7 @@ Besides presentations, all authors will be invited to submit posters to share id
 
 ## Important Dates
 
-All key dates are by the end of day in Anywhere on Earth.
+All key dates are by the end of day in Anywhere on Earth (AOE).
 
 - Proposal submission - 27 April 2026
 - Notification - 21 May 2026
