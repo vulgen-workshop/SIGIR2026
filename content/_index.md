@@ -18,7 +18,7 @@ The **International Workshop on Vulnerabilities in Generative Systems for Inform
 
 The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through VulGen’26, we aim to (i) understand under what circumstances the generative systems could “go wrong” (i.e., vulnerabilities), in both current state and future development; and (ii) build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes.
 
-You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions. 
+You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. 
 
 <!-- The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through one-day structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. We expect to build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes. You can expect a dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions.  -->
 
