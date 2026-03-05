@@ -26,7 +26,7 @@ You can expect a full-day dynamic program packed with keynote and panel sessions
 
 See submission details: [Call for Submissions]({{< relref "submission" >}})
 
-See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}}) page.
+See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 
 
 ## Important Dates
