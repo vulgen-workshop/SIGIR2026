@@ -28,6 +28,9 @@
   --color-mobile-menu:            #22395a;
 }
 
+/* Hide zen theme logo */
+.header__logo { display: none; }
+
 /* Header: centre title and nav vertically stacked */
 .header {
   flex-direction: column;
