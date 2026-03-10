@@ -45,7 +45,7 @@ params:
   realfavicongenerator: true
   sidebar: false
   submitted: true
-  siteName: false
+  siteName: true
   menuInHeader: true
   mainSections:
    - "Home"
