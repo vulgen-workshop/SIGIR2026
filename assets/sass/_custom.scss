@@ -28,18 +28,22 @@
   --color-mobile-menu:            #22395a;
 }
 
-/* Hide zen theme logo */
-.header__logo { display: none; }
+/* Hide the entire page header (site title) */
+.header { display: none; }
 
-/* Header: centre title and nav vertically stacked */
-.header {
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-}
+/* Mobile menu: hide "Menu" label, show only the hamburger icon in a box */
+@media (max-width: 767px) {
+  .mobile-nav__toggle {
+    font-size: 0;
+    padding: 0.4rem;
+    line-height: 0;
+  }
 
-.header__region {
-  margin-inline-start: 0;
+  .mobile-nav__hamburger {
+    width: 2rem;
+    height: 2rem;
+    display: block;
+  }
 }
 
 /* Footer: keep copyright centered, acknowledgement left */
