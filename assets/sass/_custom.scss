@@ -28,8 +28,8 @@
   --color-mobile-menu:            #22395a;
 }
 
-/* Hide the entire page header (site title) */
-.header { display: none; }
+/* Hide only the site title, keep the nav bar */
+.header__site-name { display: none; }
 
 /* Mobile menu: hide "Menu" label, show only the hamburger icon in a box */
 @media (max-width: 767px) {
