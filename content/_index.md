@@ -31,7 +31,7 @@ See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
-- Proposal submission - 27 April 2026
+- Extended abstract submission - 27 April 2026
 - Notification - 21 May 2026
 - Camera-ready submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
