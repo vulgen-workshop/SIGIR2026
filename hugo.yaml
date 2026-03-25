@@ -41,7 +41,7 @@ params:
   icon: "favicon.ico"
   image: "favicon.svg"
   imageMaxWidth: 400
-  # logo: true
+  logo: false
   # logoPath: "images/vulgen-logo.png"
   # logoWidth: 400
   mobileMenu: true
