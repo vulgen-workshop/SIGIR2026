@@ -58,10 +58,10 @@ This is a one-time step — deployments will succeed automatically from then on.
 
 ---
 
-## Local Preview (optional)
+## Local Preview
 
 ```bash
-git clone --recurse-submodules <repo-url>
+git clone --recurse-submodules https://github.com/vulgen-workshop/SIGIR2026
 cd SIGIR2026
 hugo server
 ```

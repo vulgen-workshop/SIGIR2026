@@ -31,6 +31,20 @@
 /* Hide only the site title, keep the nav bar */
 .header__site-name { display: none; }
 
+/* Consistent section spacing across all pages */
+.layout__main {
+  h2 { margin-top: 2rem; }
+  h3 { margin-top: 1.5rem; }
+  p + p { margin-top: 0; }
+  ul, ol { margin-top: 0.25rem; }
+}
+
+/* Prevent logo from being too tall in the header */
+.header__logo-image {
+  max-height: 70px;
+  width: auto !important;
+}
+
 /* Mobile menu: hide "Menu" label, show only the hamburger icon in a box */
 @media (max-width: 767px) {
   .mobile-nav__toggle {

@@ -27,6 +27,11 @@ menu:
 
 sectionPagesMenu: main
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   contact: "shuoqi.sun@student.rmit.edu.au"
   description: "VulGen: International Workshop on Vulnerabilities in Generative Systems for Information Retrieval at ACM SIGIR 2026"
@@ -36,9 +41,9 @@ params:
   icon: "favicon.ico"
   image: "favicon.svg"
   imageMaxWidth: 400
-  logo: false
-  logoPath: "images/logo.svg"
-  logoWidth: 90
+  # logo: true
+  # logoPath: "images/vulgen-logo.png"
+  # logoWidth: 400
   mobileMenu: true
   mobileMenuOutline: true
   poweredby: false

@@ -94,5 +94,3 @@ All key dates are by the end of day in Anywhere on Earth (AOE).
 - Notification - 21 May 2026
 - Camera-ready submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
-
-
