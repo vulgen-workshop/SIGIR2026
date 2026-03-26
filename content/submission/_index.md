@@ -72,11 +72,11 @@ Extended abstract themes include, but are not limited to:
 ## Program Committee
 
 - **Nalin Arachchilage** — RMIT University, Australia
-- **Yongli Ren** — RMIT University, Australia
-- **Mark Sanderson** — RMIT University, Australia
+- **Pablo Castells** — Autonomous University of Madrid / Complutense University of Madrid / Amazon.com, Inc., Spain
 - **Charles Clarke** — University of Waterloo, Canada
 - **Dario Di Palma** — Polytechnic University of Bari, Italy
-- **Pablo Castells** — Autonomous University of Madrid / Complutense University of Madrid / Amazon.com, Inc., Spain
+- **Yongli Ren** — RMIT University, Australia
+- **Mark Sanderson** — RMIT University, Australia
 
 *(More to be confirmed...)*
 
