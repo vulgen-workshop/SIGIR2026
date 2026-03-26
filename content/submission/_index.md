@@ -69,6 +69,19 @@ Extended abstract themes include, but are not limited to:
 
 
 
+## Program Committee
+
+| Name | Affiliation | Country |
+| --- | --- | --- |
+| Nalin Arachchilage | RMIT University | Australia |
+| Yongli Ren | RMIT University | Australia |
+| Mark Sanderson | RMIT University | Australia |
+| Charles Clarke | University of Waterloo | Canada |
+| Dario Di Palma | | Italy |
+| Pablo Castells | Autonomous University of Madrid<br>Complutense University of Madrid<br>Amazon.com, Inc. | Spain |
+
+*(More to be confirmed...)*
+
 ## Selection Process
 
 The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted submissions will be invited to present at the workshop.

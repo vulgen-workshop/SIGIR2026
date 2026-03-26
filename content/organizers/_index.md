@@ -1,7 +1,9 @@
 ---
-title: "Organizers"
+title: "Committees"
 weight: 10
 ---
+
+## Organizing Committee
 
 {{<img src="images/shuoqi.jpeg" alt="Shuoqi Sun" width="200" class="left">}}
 
@@ -58,3 +60,17 @@ University of Amsterdam, Netherlands
 RMIT University, Australia
 
 {{< clear >}}
+
+
+## Program Committee
+
+| Name | Affiliation | Country |
+| --- | --- | --- |
+| Nalin Arachchilage | RMIT University | Australia |
+| Yongli Ren | RMIT University | Australia |
+| Mark Sanderson | RMIT University | Australia |
+| Charles Clarke | University of Waterloo | Canada |
+| Dario Di Palma | | Italy |
+| Pablo Castells | Autonomous University of Madrid<br>Complutense University of Madrid<br>Amazon.com, Inc. | Spain |
+
+*(More to be confirmed...)*
