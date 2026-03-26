@@ -64,13 +64,11 @@ RMIT University, Australia
 
 ## Program Committee
 
-| Name | Affiliation | Country |
-| --- | --- | --- |
-| Nalin Arachchilage | RMIT University | Australia |
-| Yongli Ren | RMIT University | Australia |
-| Mark Sanderson | RMIT University | Australia |
-| Charles Clarke | University of Waterloo | Canada |
-| Dario Di Palma | Polytechnic University of Bari | Italy |
-| Pablo Castells | Autonomous University of Madrid<br>Complutense University of Madrid<br>Amazon.com, Inc. | Spain |
+- **Nalin Arachchilage** — RMIT University, Australia
+- **Yongli Ren** — RMIT University, Australia
+- **Mark Sanderson** — RMIT University, Australia
+- **Charles Clarke** — University of Waterloo, Canada
+- **Dario Di Palma** — Polytechnic University of Bari, Italy
+- **Pablo Castells** — Autonomous University of Madrid / Complutense University of Madrid / Amazon.com, Inc., Spain
 
 *(More to be confirmed...)*
