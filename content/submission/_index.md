@@ -77,7 +77,7 @@ Extended abstract themes include, but are not limited to:
 | Yongli Ren | RMIT University | Australia |
 | Mark Sanderson | RMIT University | Australia |
 | Charles Clarke | University of Waterloo | Canada |
-| Dario Di Palma | | Italy |
+| Dario Di Palma | Polytechnic University of Bari | Italy |
 | Pablo Castells | Autonomous University of Madrid<br>Complutense University of Madrid<br>Amazon.com, Inc. | Spain |
 
 *(More to be confirmed...)*
