@@ -65,7 +65,7 @@ RMIT University, Australia
 ## Program Committee
 
 - **Nalin Arachchilage** — RMIT University, Australia
-- **Pablo Castells** — Autonomous University of Madrid / Complutense University of Madrid / Amazon.com, Inc., Spain
+- **Pablo Castells** — Universidad Autónoma de Madrid, Spain
 - **Charles Clarke** — University of Waterloo, Canada
 - **Dario Di Palma** — Polytechnic University of Bari, Italy
 - **Yongli Ren** — RMIT University, Australia
