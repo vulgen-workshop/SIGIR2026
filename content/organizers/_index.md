@@ -64,11 +64,11 @@ RMIT University, Australia
 
 ## Program Committee
 
-- **Nalin Arachchilage** — RMIT University, Australia
-- **Pablo Castells** — Universidad Autónoma de Madrid, Spain
-- **Charles Clarke** — University of Waterloo, Canada
-- **Dario Di Palma** — Polytechnic University of Bari, Italy
-- **Yongli Ren** — RMIT University, Australia
-- **Mark Sanderson** — RMIT University, Australia
+- [**Dr Nalin Arachchilage**](https://www.rmit.edu.au/profiles/g/nalin-arachchilage) — RMIT University, Australia
+- [**Prof. Pablo Castells**](https://castells.github.io/) — Universidad Autónoma de Madrid, Spain
+- [**Prof. Charles Clarke**](https://plg.uwaterloo.ca/~claclark/) — University of Waterloo, Canada
+- [**Dario Di Palma**](https://dariodipalma-ddp.github.io/) — Polytechnic University of Bari, Italy
+- [**Dr Yongli Ren**](https://www.rmit.edu.au/profiles/r/yongli-ren) — RMIT University, Australia
+- [**Dean Mark Sanderson**](https://marksanderson.org/) — RMIT University, Australia
 
 *(More to be confirmed...)*

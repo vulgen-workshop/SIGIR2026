@@ -50,6 +50,10 @@ University of Melbourne, Australia
 
 [University Profile](https://findanexpert.unimelb.edu.au/profile/6335-christopher-leckie) · [ADM+S Profile](https://www.admscentre.org.au/christopher-leckie/) · [Google Scholar](https://scholar.google.com/citations?user=wUsI0cAAAAAJ&hl=en)
 
+Prof Leckie has a strong interest in developing AI techniques for a variety of applications in telecommunications, such as cyber security, network management, fault diagnosis and the Internet-of-Things.
+
+He also has an interest in robust and scalable machine learning algorithms for problems such as clustering and anomaly detection, with a focus on adversarial machine learning.
+
 {{< clear >}}
 
 
