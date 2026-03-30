@@ -39,9 +39,9 @@
   ul, ol { margin-top: 0.25rem; }
 }
 
-/* Prevent logo from being too tall in the header */
+/* Logo size in the header */
 .header__logo-image {
-  max-height: 70px;
+  max-height: 100px;
   width: auto !important;
 }
 
