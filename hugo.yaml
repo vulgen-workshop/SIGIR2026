@@ -44,7 +44,6 @@ params:
   logo: true
   logoPath: "images/vulgen-logo-full.png"
   logoHeight: 100
-  siteName: false
   mobileMenu: true
   mobileMenuOutline: true
   poweredby: false
