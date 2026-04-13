@@ -65,7 +65,7 @@ RMIT University, Australia
 ## Program Committee
 
 - [**Dr Nalin Arachchilage**](https://www.rmit.edu.au/profiles/g/nalin-arachchilage) — RMIT University, Australia
-- [**Prof. Pablo Castells**](https://castells.github.io/) — Universidad Autónoma de Madrid, Spain
+- [**Prof. Pablo Castells**](https://castells.github.io/) — Amazon, United States
 - [**Prof. Charles Clarke**](https://plg.uwaterloo.ca/~claclark/) — University of Waterloo, Canada
 - [**Dario Di Palma**](https://dariodipalma-ddp.github.io/) — Polytechnic University of Bari, Italy
 - **Juwon Kim** — Amazon, United States
