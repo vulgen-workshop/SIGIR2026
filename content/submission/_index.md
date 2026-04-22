@@ -87,7 +87,9 @@ Extended abstract themes include, but are not limited to:
 
 The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted submissions will be invited to present at the workshop.
 
-The accepted extended abstract will be non-archival. We strongly encourage authors with accepted submissions to upload their work to arXiv, and we will link to them on the workshop website and promote them accordingly.
+The accepted extended abstract will be non-archival. We will attach the PDF of accepted submissions to the workshop “Accepted Submissions” webpage and promote them accordingly. We strongly encourage authors with accepted submissions to upload their works to arXiv, and we will also link to them on the workshop webpage.
+
+<!-- The accepted extended abstract will be non-archival. We strongly encourage authors with accepted submissions to upload their work to arXiv, and we will link to them on the workshop website and promote them accordingly. -->
 
 
 <!-- Reviewers will have access to your information and any shared resources, but you will not know who the reviewers are. -->
