@@ -87,7 +87,7 @@ Extended abstract themes include, but are not limited to:
 
 The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted submissions will be invited to present at the workshop.
 
-The accepted extended abstract will be non-archival. We will attach the PDF of accepted submissions to the workshop “Accepted Submissions” webpage and promote them accordingly. We strongly encourage authors with accepted submissions to upload their works to arXiv, and we will also link to them on the workshop webpage.
+Accepted extended abstracts will be non-archival. PDFs of the accepted submissions will be hosted on the workshop's webpage and promoted accordingly. We strongly encourage authors to upload their accepted works to arXiv, and we will include direct links to these preprints on the workshop website.
 
 <!-- The accepted extended abstract will be non-archival. We strongly encourage authors with accepted submissions to upload their work to arXiv, and we will link to them on the workshop website and promote them accordingly. -->
 
@@ -106,7 +106,7 @@ Besides presentations, all authors will be invited to submit posters to share id
 
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
-- Extended abstract submission - 27 April 2026
+- Extended abstract submission - 04 May 2026
 - Notification - 21 May 2026
 - Camera-ready submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
