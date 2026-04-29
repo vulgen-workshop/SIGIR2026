@@ -46,7 +46,8 @@ Representative applications of generative systems include, but not limited to:
 - LLM for simulation (synthetic data, LLM personas, etc.)
 - Agentic IR systems (agentic echosystem, autonomous task executor, etc.)
 - Personalized LLMs (personalized assistants, etc.)
-- LLM for generative media (kinship-based role-play, virtual avatars, etc.)
+- Generative media (video and audio generations, etc.)
+<!-- - Generative media (kinship-based role-play, virtual avatars, etc.) -->
 - (.... tell us more in your submissions)
 
  
@@ -55,7 +56,7 @@ Representative vulnerabilities (i.e., downsides) of generative systems include, 
 - Adversarial attacks (corpus positioning, prompt injection, backdoor attack, etc.)
 - Systemic bias or consequences (LLM narcissism, output bias, etc.)
 - Misleading or harmful output (misinformation, disinformation, polarized output, etc.)
-- Human-related consequences (intellectual laziness, emotional displacement, etc.)
+- Human-centered impacts (intellectual laziness, displacement of feelings, etc.)
 - (.... tell us more in your submissions)
 
 Extended abstract themes include, but are not limited to:
