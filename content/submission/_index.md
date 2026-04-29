@@ -71,15 +71,15 @@ Extended abstract themes include, but are not limited to:
 
 ## Program Committee
 
-- [**Dr Nalin Arachchilage**](https://www.rmit.edu.au/profiles/g/nalin-arachchilage) — RMIT University, Australia
+- [**Dr. Nalin Arachchilage**](https://www.rmit.edu.au/profiles/g/nalin-arachchilage) — RMIT University, Australia
 - [**Prof. Pablo Castells**](https://castells.github.io/) — Amazon, United States
 - [**Prof. Charles Clarke**](https://plg.uwaterloo.ca/~claclark/) — University of Waterloo, Canada
 - [**Dario Di Palma**](https://dariodipalma-ddp.github.io/) — Polytechnic University of Bari, Italy
 - **Juwon Kim** — Amazon, United States
 - **Udita Patel** — Amazon, United States
-- [**Dr Yongli Ren**](https://www.rmit.edu.au/profiles/r/yongli-ren) — RMIT University, Australia
+- [**Dr. Yongli Ren**](https://www.rmit.edu.au/profiles/r/yongli-ren) — RMIT University, Australia
 - [**Dean Mark Sanderson**](https://marksanderson.org/) — RMIT University, Australia
-- [**Dr Paul Thomas**](https://www.microsoft.com/en-us/research/people/pathom/) — Microsoft, United States
+- [**Dr. Paul Thomas**](https://www.microsoft.com/en-us/research/people/pathom/) — Microsoft, United States
 
 *(More to be confirmed...)*
 
