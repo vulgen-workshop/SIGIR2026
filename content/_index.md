@@ -16,7 +16,7 @@ The **International Workshop on Vulnerabilities in Generative Systems for Inform
 
 The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through VulGen’26, we aim to (i) understand under what circumstances the generative systems could “go wrong” (i.e., vulnerabilities), in both current state and future development; and (ii) build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes.
 
-You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. 
+You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. Please be noted that VulGen'26 workshop requires **in-person** attendance.
 
 <!-- The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through one-day structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. We expect to build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes. You can expect a dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions.  -->
 
@@ -31,9 +31,9 @@ See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
-- Extended abstract submission - 04 May 2026
-- Notification - 21 May 2026
-- Camera-ready submission - 15 June 2026
+- ~~Extended abstract submission - 04 May 2026~~
+- Notification - ~~21 May 2026~~ 25 May 2026 (delayed)
+- Final PDF submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
 
 If you have any questions, please contact us via<br>

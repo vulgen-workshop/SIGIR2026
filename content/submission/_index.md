@@ -107,7 +107,7 @@ Besides presentations, all authors will be invited to submit posters to share id
 
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
-- Extended abstract submission - 04 May 2026
-- Notification - 21 May 2026
-- Camera-ready submission - 15 June 2026
+- ~~Extended abstract submission - 04 May 2026~~
+- Notification - ~~21 May 2026~~ 25 May 2026 (delayed)
+- Final PDF submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
