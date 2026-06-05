@@ -46,7 +46,8 @@ Representative applications of generative systems include, but not limited to:
 - LLM for simulation (synthetic data, LLM personas, etc.)
 - Agentic IR systems (agentic echosystem, autonomous task executor, etc.)
 - Personalized LLMs (personalized assistants, etc.)
-- LLM for generative media (kinship-based role-play, virtual avatars, etc.)
+- Generative media (video and audio generations, etc.)
+<!-- - Generative media (kinship-based role-play, virtual avatars, etc.) -->
 - (.... tell us more in your submissions)
 
  
@@ -55,7 +56,7 @@ Representative vulnerabilities (i.e., downsides) of generative systems include, 
 - Adversarial attacks (corpus positioning, prompt injection, backdoor attack, etc.)
 - Systemic bias or consequences (LLM narcissism, output bias, etc.)
 - Misleading or harmful output (misinformation, disinformation, polarized output, etc.)
-- Human-related consequences (intellectual laziness, emotional displacement, etc.)
+- Human-centered impacts (intellectual laziness, displacement of feelings, etc.)
 - (.... tell us more in your submissions)
 
 Extended abstract themes include, but are not limited to:
@@ -71,15 +72,15 @@ Extended abstract themes include, but are not limited to:
 
 ## Program Committee
 
-- [**Dr Nalin Arachchilage**](https://www.rmit.edu.au/profiles/g/nalin-arachchilage) — RMIT University, Australia
+- [**Dr. Nalin Arachchilage**](https://www.rmit.edu.au/profiles/g/nalin-arachchilage) — RMIT University, Australia
 - [**Prof. Pablo Castells**](https://castells.github.io/) — Amazon, United States
 - [**Prof. Charles Clarke**](https://plg.uwaterloo.ca/~claclark/) — University of Waterloo, Canada
 - [**Dario Di Palma**](https://dariodipalma-ddp.github.io/) — Polytechnic University of Bari, Italy
 - **Juwon Kim** — Amazon, United States
 - **Udita Patel** — Amazon, United States
-- [**Dr Yongli Ren**](https://www.rmit.edu.au/profiles/r/yongli-ren) — RMIT University, Australia
+- [**Dr. Yongli Ren**](https://www.rmit.edu.au/profiles/r/yongli-ren) — RMIT University, Australia
 - [**Dean Mark Sanderson**](https://marksanderson.org/) — RMIT University, Australia
-- [**Dr Paul Thomas**](https://www.microsoft.com/en-us/research/people/pathom/) — Microsoft, United States
+- [**Dr. Paul Thomas**](https://www.microsoft.com/en-us/research/people/pathom/) — Microsoft, United States
 
 *(More to be confirmed...)*
 
@@ -87,7 +88,9 @@ Extended abstract themes include, but are not limited to:
 
 The selection process will be single-blind. The Program Committee will evaluate submissions based on: (1) relevance to the workshop themes; (2) significance of statements; and (3) the potential to stimulate meaningful discussion. Authors of accepted submissions will be invited to present at the workshop.
 
-The accepted extended abstract will be non-archival. We strongly encourage authors with accepted submissions to upload their work to arXiv, and we will link to them on the workshop website and promote them accordingly.
+Accepted extended abstracts will be non-archival. PDFs of the accepted submissions will be hosted on the workshop's webpage and promoted accordingly. We strongly encourage authors to upload their accepted works to arXiv, and we will include direct links to these preprints on the workshop website.
+
+<!-- The accepted extended abstract will be non-archival. We strongly encourage authors with accepted submissions to upload their work to arXiv, and we will link to them on the workshop website and promote them accordingly. -->
 
 
 <!-- Reviewers will have access to your information and any shared resources, but you will not know who the reviewers are. -->
@@ -104,7 +107,7 @@ Besides presentations, all authors will be invited to submit posters to share id
 
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
-- Extended abstract submission - 27 April 2026
-- Notification - 21 May 2026
-- Camera-ready submission - 15 June 2026
+- ~~Extended abstract submission - 04 May 2026~~
+- Notification - ~~21 May 2026~~ 25 May 2026 (delayed)
+- Final PDF submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026

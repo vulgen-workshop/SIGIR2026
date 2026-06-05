@@ -18,8 +18,8 @@ weight: 5
 | 12:00 -- 12:30 | Breakout Group Formation |
 | 12:30 -- 14:00 | Lunch/Breakout Discussion |
 | 14:00 -- 14:30 | [Keynote by Prof. Chris Leckie]({{< relref "/" >}}#keynote-speaker) |
-| 14:30 -- 15:30 | Breakout Discussion |
-| 15:30 -- 16:00 | Discussion Reporting |
+| 14:30 -- 15:00 | Breakout Discussion |
+| 15:00 -- 16:00 | Discussion Reporting |
 | 16:00 -- 16:30 | Coffee Break |
 | 16:30 -- 17:15 | Panel Session |
 | 17:15 -- 17:30 | Closing Remarks |

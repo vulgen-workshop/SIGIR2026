@@ -16,7 +16,7 @@ The **International Workshop on Vulnerabilities in Generative Systems for Inform
 
 The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through VulGen’26, we aim to (i) understand under what circumstances the generative systems could “go wrong” (i.e., vulnerabilities), in both current state and future development; and (ii) build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes.
 
-You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. 
+You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. Please be noted that VulGen'26 workshop requires **in-person** attendance.
 
 <!-- The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through one-day structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. We expect to build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes. You can expect a dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions.  -->
 
@@ -31,9 +31,9 @@ See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
-- Extended abstract submission - 27 April 2026
-- Notification - 21 May 2026
-- Camera-ready submission - 15 June 2026
+- ~~Extended abstract submission - 04 May 2026~~
+- Notification - ~~21 May 2026~~ 25 May 2026 (delayed)
+- Final PDF submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
 
 If you have any questions, please contact us via<br>
@@ -44,7 +44,7 @@ If you have any questions, please contact us via<br>
 
 {{<img src="images/christopher-leckie.jpg" alt="Prof Chris Leckie" width="180" class="left">}}
 
-**Prof Chris Leckie**
+**Prof. Chris Leckie**
 
 University of Melbourne, Australia
 
@@ -52,9 +52,11 @@ University of Melbourne, Australia
 
 {{< clear >}}
 
-Prof Leckie has a strong interest in developing AI techniques for a variety of applications in telecommunications, such as cyber security, network management, fault diagnosis and the Internet-of-Things.
+Prof. Leckie has broad expertise in developing AI techniques for a variety of applications in telecommunications, such as cyber security, network management, fault diagnosis and the Internet-of-Things. He also has an interest in robust and scalable machine learning algorithms for problems such as clustering and anomaly detection, with a focus on adversarial machine learning.
 
-He also has an interest in robust and scalable machine learning algorithms for problems such as clustering and anomaly detection, with a focus on adversarial machine learning.
+**Title:** Emerging Security Threats from Generative AI in Information Seeking Environments
+
+**Abstract:** Progress in generative AI is enabling new ways for organisations to support the needs of diverse user communities in information seeking environments. For example, voice-enabled chatbot interfaces are making it possible for users to access information and services within an organisation in a flexible and unstructured manner. However, the flexibility and openness of such generative AI interfaces are also creating a new type of attack surface that malicious actors can exploit to attack organisations. The risk of such attacks is compounded by the pressure on organisations to rapidly provide AI-based interfaces for customer access at a time when their testing and assurance processes for these interfaces are still relatively immature. In this talk we will highlight some of the emerging trends for malicious misuse of generative AI in information seeking environments, with a specific focus on threats involving voice-enabled chatbots in conversational settings. We will also present our current research initiative, which is the development of a generative AI test range that can enable research on testing, detecting and defending against these rapidly emerging threats.
 
 
 ## Sponsor
