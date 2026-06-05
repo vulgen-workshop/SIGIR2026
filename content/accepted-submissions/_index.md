@@ -3,7 +3,7 @@ title: "Accepted Submissions"
 weight: 6
 ---
 
-The following extended abstracts have been accepted to VulGen'26 and will be presented in person at the workshop. These presentations will be part of the workshop's discussions and activities, contributing to our exploration of vulnerabilities in generative systems for information retrieval.
+The following extended abstracts have been accepted to the SIGIR'26 VulGen workshop:
 
 - LLM-Judge-as-a-System: The Co-adaptation Spiral.  
   *Laura Dietz*
