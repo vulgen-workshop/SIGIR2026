@@ -19,6 +19,7 @@ The VulGen'26 brings together the IR community and related disciplines (e.g., cy
 You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. Please be noted that VulGen'26 workshop requires **in-person** attendance.
 
 ~~See submission details: [Call for Submissions](submission/)~~
+
 See list of accepted submissions: [Accepted Submissions](accepted-submissions/)
 
 See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
@@ -29,7 +30,7 @@ See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
 - ~~Extended abstract submission - 04 May 2026~~
-- Notification - ~~21 May 2026~~ 25 May 2026 (delayed)
+- Notification - ~~25 May 2026~~
 - Final PDF submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
 
