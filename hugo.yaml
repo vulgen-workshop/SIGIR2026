@@ -58,6 +58,7 @@ params:
    - "Important Dates"
    - "Submission"
    - "Schedule"
+   - "Accepted Submissions"
    - "Organizers"
 
   footer: "The organizers acknowledge that this workshop was conceived on the lands of the First Nations peoples of the Kulin Nation, Kanien'kehá:ka (Mohawk) Nation, and the Pennacook, Abenaki, and Wabanaki Peoples. The workshop will be co-located with ACM SIGIR 2026 and hosted on the unceded lands of the Woi wurrung and Boon wurrung language groups of the Eastern Kulin Nation. We acknowledge their Ancestors and Elders, past, and present, and we respectfully acknowledge their connection to Country."
