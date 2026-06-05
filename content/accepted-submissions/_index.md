@@ -1,6 +1,6 @@
 ---
 title: "Accepted Submissions"
-weight: 6
+weight: 2
 ---
 
 The following extended abstracts have been accepted to the SIGIR'26 VulGen workshop:
