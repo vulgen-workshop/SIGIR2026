@@ -3,9 +3,9 @@ title: "About VulGen'26"
 weight: 12
 ---
 
-~~Check out our [Call for Submissions]({{< relref "submission" >}}) page.~~
+~~Check out our [Call for Submissions](../submission/) page.~~
 
-The list of [accepted submissions](../accepted-submission) is now available.
+The list of [accepted submissions](../accepted-submission/) is now available.
 
 **What is VulGen'26 Workshop?** The *International Workshop on Vulnerabilities in Generative Systems for Information Retrieval (VulGen'26)* brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through one-day structured discussion and engagement, we aim to (i) understand under what circumstances the generative systems could “go wrong” (i.e., vulnerabilities), in both current state and future development; and (ii) build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes. We expect to build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes.
 
