@@ -12,7 +12,7 @@ The following extended abstracts have been accepted to the SIGIR'26 VulGen works
   *Dilana Mathugama and Dilum De Silva*
 
 - <a href="../papers/Secure%20Coding%20Drift%20in%20LLM%20Assisted%20Post%20Quantum%20Cryptography%20Development%20A%20Gamified%20Fix.pdf" target="_blank">Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix</a>  
-  *Shakya Rathnaikage, C.P. Wijesiriwardana, S.M. Vidanagamachchi and Nalin Arachchilage*
+  *R.D.N. Shakya, C.P. Wijesiriwardana, S.M. Vidanagamachchi and Nalin A.G. Arachchilage*
 
 - <a href="../papers/The%20Audit%20Gap.pdf" target="_blank">The Audit Gap: Organizational Vulnerabilities of Generative AI Adoption</a>  
   *Adam Roegiest*
