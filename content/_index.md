@@ -18,11 +18,9 @@ The VulGen'26 brings together the IR community and related disciplines (e.g., cy
 
 You can expect a full-day dynamic program packed with keynote and panel sessions, structured breakout discussions, extended abstract presentations, and engaging poster and demonstration sessions. Please be noted that VulGen'26 workshop requires **in-person** attendance.
 
-<!-- The VulGen'26 brings together the IR community and related disciplines (e.g., cyber security) to foster cross-disciplinary engagement and advance understanding of vulnerabilities in generative systems used for IR. Through one-day structured discussion and engagement, we aim to synthesize the current state of research and identify new avenues for investigation. We expect to build a dedicated research community to address the potential downsides of generative systems that could lead to unexpected or harmful outcomes. You can expect a dynamic program packed with keynote and panel sessions, structured breakout discussions, statement presentations, and engaging poster and demonstration sessions.  -->
+~~See submission details: [Call for Submissions](submission/)~~
 
-<!-- Have you ever used or deployed a generative system and wondered, "What could possibly go wrong?" Have you spotted hidden vulnerabilities in these systems that the rest of the community has overlooked? Have you questioned the extent to which generative systems might negatively affect people and society? The VulGen workshop is exactly where you can share those ideas and draw the attention of your peers to collaborate and investigate these potential pitfalls. Don't hesitate; submit a statement by the deadline to highlight the vulnerabilities you have identified. -->
-
-See submission details: [Call for Submissions]({{< relref "submission" >}})
+See list of accepted submissions: [Accepted Submissions](accepted-submissions/)
 
 See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 
@@ -32,7 +30,7 @@ See VulGen'26 workshop details: [About VulGen'26]({{< relref "about" >}})
 All key dates are by the end of day in Anywhere on Earth (AOE).
 
 - ~~Extended abstract submission - 04 May 2026~~
-- Notification - ~~21 May 2026~~ 25 May 2026 (delayed)
+- ~~Notification - 25 May 2026~~
 - Final PDF submission - 15 June 2026
 - Workshop co-located with SIGIR´26 - 24 July 2026
 
@@ -59,7 +57,7 @@ Prof. Leckie has broad expertise in developing AI techniques for a variety of ap
 **Abstract:** Progress in generative AI is enabling new ways for organisations to support the needs of diverse user communities in information seeking environments. For example, voice-enabled chatbot interfaces are making it possible for users to access information and services within an organisation in a flexible and unstructured manner. However, the flexibility and openness of such generative AI interfaces are also creating a new type of attack surface that malicious actors can exploit to attack organisations. The risk of such attacks is compounded by the pressure on organisations to rapidly provide AI-based interfaces for customer access at a time when their testing and assurance processes for these interfaces are still relatively immature. In this talk we will highlight some of the emerging trends for malicious misuse of generative AI in information seeking environments, with a specific focus on threats involving voice-enabled chatbots in conversational settings. We will also present our current research initiative, which is the development of a generative AI test range that can enable research on testing, detecting and defending against these rapidly emerging threats.
 
 
-## Sponsor
+## Supported By
 
 {{<img src="images/adms-logo.png" alt="ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S)" width="380">}}
 
