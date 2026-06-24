@@ -70,3 +70,25 @@
   word-break: break-all;
   overflow-wrap: break-word;
 }
+
+/* Accepted submissions: paper entry layout */
+.paper-entry {
+  margin-block: var(--spacing-m) var(--spacing-l);
+
+  .paper-title {
+    font-weight: var(--fw-bold);
+    margin-block-end: var(--spacing-xs);
+  }
+
+  .paper-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin-block-end: var(--spacing-xs);
+  }
+
+  .paper-authors {
+    margin-block-end: 0;
+    color: var(--color-text-meta);
+  }
+}
