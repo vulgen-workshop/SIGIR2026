@@ -11,8 +11,8 @@ weight: 5
 
 | Time | Event |
 | --- | --- |
-| 9:00 -- 9:15 | Opening Remarks |
-| 9:15 -- 10:30 | Paper Presentations |
+| 09:00 -- 09:15 | Opening Remarks |
+| 09:15 -- 10:30 | Paper Presentations |
 | 10:30 -- 11:00 | Coffee Break |
 | 11:00 -- 12:00 | Poster and Demonstrations |
 | 12:00 -- 12:30 | Breakout Group Formation |
@@ -21,5 +21,5 @@ weight: 5
 | 14:00 -- 14:30 | [Keynote by Prof. Chris Leckie]({{< relref "/" >}}#keynote-speaker) |
 | 14:30 -- 15:00 | Breakout Discussion |
 | 15:00 -- 15:30 | Coffee Break |
-| 15:30 -- 16:00 | Breakout Reporting & Closing Remarks |
-| 16:00 -- 17:00 | Panel Session |
+| 15:30 -- 16:00 | Breakout Groups Reporting & Closing Remarks |
+| 16:00 -- 17:00 | [JEDI](https://jedi.inertial.science/sigir2026/)-VulGen Joint Panel Session |
