@@ -25,8 +25,8 @@ The following extended abstracts have been accepted to the SIGIR'26 VulGen works
   <p class="paper-title">Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix</p>
   <p class="paper-authors"><em>R.D.N. Shakya, C.P. Wijesiriwardana, S.M. Vidanagamachchi and Nalin A.G. Arachchilage</em></p>
   <div class="paper-buttons">
-    <a class="button button--small button--outline" href="../papers/Secure%20Coding%20Drift%20in%20LLM%20Assisted%20Post%20Quantum%20Cryptography%20Development%20A%20Gamified%20Fix.pdf" target="_blank">PDF</a>
-    <a class="button button--small button--outline" href="https://arxiv.org/abs/2606.19474" target="_blank">arXiv</a>
+    <a class="button button--small button--outline" href="../papers/Secure%20Coding%20Drift%20in%20LLM-Assisted%20Post-Quantum%20Cryptography%20Development%20A%20Gamified%20Fix.pdf" target="_blank">PDF</a>
+    <a class="button button--small button--outline" href="https://arxiv.org/pdf/2606.19474" target="_blank">arXiv</a>
   </div>
 </div>
 
@@ -50,8 +50,8 @@ The following extended abstracts have been accepted to the SIGIR'26 VulGen works
   <p class="paper-title">How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality</p>
   <p class="paper-authors"><em>Minzhu Tu, Shiyu Ni and Keping Bi</em></p>
   <div class="paper-buttons">
-    <a class="button button--small button--outline" href="../papers/How%20Long%20Reasoning%20Chains%20Influence%20LLMs%E2%80%99%20Judgment%20of%20Answer%20Factuality.pdf" target="_blank">PDF</a>
-    <a class="button button--small button--outline" href="https://arxiv.org/abs/2604.06756" target="_blank">arXiv</a>
+    <a class="button button--small button--outline" href="../papers/How%20Long%20Reasoning%20Chains%20Influence%20LLMs%27%20Judgment%20of%20Answer%20Factuality.pdf" target="_blank">PDF</a>
+    <a class="button button--small button--outline" href="https://arxiv.org/pdf/2604.06756" target="_blank">arXiv</a>
   </div>
 </div>
 
