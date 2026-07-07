@@ -1,0 +1,44 @@
+{{- /* csvtable: render a CSV asset as a styled, horizontally scrollable schedule
+       grid. Expected columns: Session, Time, Presentation, Authors, PDF, arXiv.
+       Repeated Session labels are blanked so each session reads as a group. */ -}}
+{{- $src := .Get "src" -}}
+{{- $res := resources.Get $src -}}
+{{- if not $res -}}
+  {{- errorf "csvtable: resource %q not found" $src -}}
+{{- end -}}
+{{- $rows := $res | transform.Unmarshal -}}
+<div class="csv-table">
+  <table>
+    <thead>
+      <tr>
+        <th>Presentation Session</th>
+        <th>Time</th>
+        <th>Presentation</th>
+        <th>Author(s)</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- $prev := "" -}}
+      {{- range after 1 $rows -}}
+        {{- $session := index . 0 -}}
+        {{- $time := index . 1 -}}
+        {{- $title := index . 2 -}}
+        {{- $authors := index . 3 -}}
+        {{- $pdf := "" -}}{{- if ge (len .) 5 }}{{ $pdf = index . 4 }}{{ end -}}
+        {{- $arxiv := "" -}}{{- if ge (len .) 6 }}{{ $arxiv = index . 5 }}{{ end -}}
+      <tr>
+        <td class="session">{{ if ne $session $prev }}{{ $session }}{{ end }}</td>
+        <td class="time">{{ $time }}</td>
+        <td>{{ $title }}</td>
+        <td>{{ $authors }}</td>
+        <td class="links">
+          {{- with $pdf }}<a href="{{ . }}">PDF</a>{{ end -}}
+          {{- with $arxiv }} <a href="{{ . }}">arXiv</a>{{ end -}}
+        </td>
+      </tr>
+        {{- $prev = $session -}}
+      {{- end -}}
+    </tbody>
+  </table>
+</div>

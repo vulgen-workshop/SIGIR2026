@@ -45,6 +45,47 @@
   width: auto !important;
 }
 
+/* CSV-driven Presentation Sessions grid: bordered, zebra-striped, and
+   horizontally scrollable so it stays aligned to the content column. */
+.csv-table {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-block: 0 var(--spacing-m);
+}
+
+.csv-table table {
+  width: 100%;
+  min-width: 46rem;          /* keep columns readable; scroll below this */
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.csv-table th,
+.csv-table td {
+  padding: .4rem .6rem;
+  border: 1px solid #d7dce3;
+  text-align: left;
+  vertical-align: top;
+}
+
+.csv-table thead th {
+  background-color: var(--color-row-header);
+}
+
+.csv-table tbody tr:nth-child(odd)  { background-color: var(--color-row-odd); }
+.csv-table tbody tr:nth-child(even) { background-color: var(--color-row-even); }
+
+.csv-table td.session {
+  white-space: nowrap;
+  font-weight: var(--fw-bold);
+}
+
+.csv-table td.time,
+.csv-table td.links {
+  white-space: nowrap;
+}
+
 /* Mobile menu: hide "Menu" label, show only the hamburger icon in a box */
 @media (max-width: 767px) {
   .mobile-nav__toggle {
