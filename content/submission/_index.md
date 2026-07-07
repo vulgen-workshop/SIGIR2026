@@ -82,7 +82,7 @@ Extended abstract themes include, but are not limited to:
 - [**Dean Mark Sanderson**](https://marksanderson.org/) — RMIT University, Australia
 - [**Dr. Paul Thomas**](https://www.microsoft.com/en-us/research/people/pathom/) — Microsoft, United States
 
-*(More to be confirmed...)*
+<!-- *(More to be confirmed...)* -->
 
 ## Selection Process
 

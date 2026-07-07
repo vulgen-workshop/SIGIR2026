@@ -31,7 +31,7 @@ All key dates are by the end of day in Anywhere on Earth (AOE).
 
 - ~~Extended abstract submission - 04 May 2026~~
 - ~~Notification - 25 May 2026~~
-- Final PDF submission - 15 June 2026
+- ~~Final PDF submission - 15 June 2026~~
 - Workshop co-located with SIGIR´26 - 24 July 2026
 
 If you have any questions, please contact us via<br>
