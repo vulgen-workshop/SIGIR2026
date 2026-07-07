@@ -45,6 +45,21 @@
   width: auto !important;
 }
 
+/* Wide content tables (e.g. Presentation Sessions): keep the table aligned to
+   the content column and add a horizontal scrollbar instead of overflowing. */
+.layout__main table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Keep the time range on a single line in the Presentation Sessions table. */
+.layout__main table td.time {
+  white-space: nowrap;
+}
+
 /* Mobile menu: hide "Menu" label, show only the hamburger icon in a box */
 @media (max-width: 767px) {
   .mobile-nav__toggle {
