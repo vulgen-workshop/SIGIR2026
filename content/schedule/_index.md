@@ -54,6 +54,8 @@ Prof. Leckie has broad expertise in developing AI techniques for a variety of ap
 
 This is a joint panel of two workshops, [JEDI](https://jedi.inertial.science/sigir2026/) and [VulGen](https://vulgen-workshop.github.io/SIGIR2026), bringing together speakers from both communities.
 
+**Panel Theme:** "The Future of Information Retrieval from Societal and Interdisciplinary Perspectives"
+
 **Panelists:**
 
 - **Dr Bhaskar Mitra** (SIGIR keynote speaker) — Independent Researcher, Canada
