@@ -57,6 +57,19 @@ Prof. Leckie has broad expertise in developing AI techniques for a variety of ap
 **Abstract:** Progress in generative AI is enabling new ways for organisations to support the needs of diverse user communities in information seeking environments. For example, voice-enabled chatbot interfaces are making it possible for users to access information and services within an organisation in a flexible and unstructured manner. However, the flexibility and openness of such generative AI interfaces are also creating a new type of attack surface that malicious actors can exploit to attack organisations. The risk of such attacks is compounded by the pressure on organisations to rapidly provide AI-based interfaces for customer access at a time when their testing and assurance processes for these interfaces are still relatively immature. In this talk we will highlight some of the emerging trends for malicious misuse of generative AI in information seeking environments, with a specific focus on threats involving voice-enabled chatbots in conversational settings. We will also present our current research initiative, which is the development of a generative AI test range that can enable research on testing, detecting and defending against these rapidly emerging threats.
 
 
+## Joint Panel Session
+
+This is a joint panel of two workshops, [JEDI](https://jedi.inertial.science/sigir2026/) and [VulGen](https://vulgen-workshop.github.io/SIGIR2026), bringing together speakers from both communities.
+
+**Panelists:**
+
+- **Dr Bhaskar Mitra** (SIGIR keynote speaker) — Independent Researcher, Canada
+- **Dr Dana Mckay** — RMIT University, Australia
+- **Prof. Chris Leckie** (VulGen keynote speaker) — University of Melbourne, Australia
+- **Dr Cécile Paris** (SIGIR keynote speaker) — CSIRO, Australia
+- **Dr Faegheh Hasibi** — Radboud University, Netherlands
+
+
 ## Supported By
 
 {{<img src="images/adms-logo.png" alt="ARC Centre of Excellence for Automated Decision-Making and Society (ADM+S)" width="380">}}

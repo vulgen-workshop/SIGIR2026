@@ -27,7 +27,7 @@
         {{- $authors := index . 3 -}}
         {{- $pdf := "" -}}{{- if ge (len .) 5 }}{{ $pdf = index . 4 }}{{ end -}}
         {{- $arxiv := "" -}}{{- if ge (len .) 6 }}{{ $arxiv = index . 5 }}{{ end -}}
-      <tr>
+      <tr{{ if ne $session $prev }} id="{{ $session | anchorize }}"{{ end }}>
         <td class="session">{{ if ne $session $prev }}{{ $session }}{{ end }}</td>
         <td class="time">{{ $time }}</td>
         <td>{{ $title }}</td>
