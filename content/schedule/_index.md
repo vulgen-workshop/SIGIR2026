@@ -58,8 +58,8 @@ This is a joint panel of two workshops, [JEDI](https://jedi.inertial.science/sig
 
 **Panelists:**
 
-- **Dr Bhaskar Mitra** (SIGIR keynote speaker) — Independent Researcher, Canada
-- **Dr Dana Mckay** — RMIT University, Australia
+- **Dr. Bhaskar Mitra** (SIGIR keynote speaker) — Independent Researcher, Canada
+- **Dr. Dana Mckay** — RMIT University, Australia
 - **Prof. Chris Leckie** (VulGen keynote speaker) — University of Melbourne, Australia
-- **Dr Cécile Paris** (SIGIR keynote speaker) — CSIRO, Australia
-- **Dr Faegheh Hasibi** — Radboud University, Netherlands
+- **Dr. Cécile Paris** (SIGIR keynote speaker) — CSIRO, Australia
+- **Dr. Faegheh Hasibi** — Radboud University, Netherlands
