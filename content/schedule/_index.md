@@ -31,7 +31,11 @@ Papers are grouped into sessions by theme, and ordered within each session alpha
 
 {{< csvtable src="data/schedule-sessions.csv" >}}
 
-## Keynote Speaker
+## Keynote and Panel Sessions
+
+Please refer to the dedicated tabs for them on the top of webpages.
+
+<!-- ## Keynote Speaker
 
 {{<img src="images/christopher-leckie.jpg" alt="Prof Chris Leckie" width="180" class="left">}}
 
@@ -62,4 +66,4 @@ This is a joint panel of two workshops, [JEDI](https://jedi.inertial.science/sig
 - **A/Prof. Dana Mckay** — RMIT University, Australia
 - **Prof. Chris Leckie** (VulGen keynote speaker) — University of Melbourne, Australia
 - **Dr. Cécile Paris** (SIGIR keynote speaker) — CSIRO, Australia
-- **Dr. Faegheh Hasibi** — Radboud University, Netherlands
+- **Dr. Faegheh Hasibi** — Radboud University, Netherlands -->

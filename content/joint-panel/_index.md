@@ -19,7 +19,7 @@ University of Amsterdam, Netherlands
 
 {{<img src="images/faegheh.jpg" alt="Dr. Faegheh Hasibi" width="200" class="left">}}
 
-**Dr. Faegheh Hasibi** 
+[**Dr. Faegheh Hasibi**](https://hasibi.com/)
 
 Radboud University, Netherlands
 
@@ -27,7 +27,7 @@ Radboud University, Netherlands
 
 {{<img src="images/christopher-leckie.jpg" alt="Prof. Chris Leckie" width="200" class="left">}}
 
-**Prof. Chris Leckie**
+[**Prof. Chris Leckie**](https://findanexpert.unimelb.edu.au/profile/6335-christopher-leckie)
 
 University of Melbourne, Australia
 
@@ -37,17 +37,24 @@ University of Melbourne, Australia
 
 {{<img src="images/dana.jpg" alt="A/Prof. Dana Mckay" width="200" class="left">}}
 
-**A/Prof. Dana Mckay**
+[**A/Prof. Dana Mckay**](https://sites.google.com/view/dana-mckay)
 
 RMIT University, Australia
 
 
 {{< clear >}}
 
+{{<img src="images/bhaskar.jpeg" alt="Dr. Bhaskar Mitra" width="200" class="left">}}
+
+[**Dr. Bhaskar Mitra**](https://bhaskar-mitra.github.io/)
+
+Independent Researcher, Canada
+
+{{< clear >}}
 
 {{<img src="images/cecile.jpg" alt="Dr. Cécile Paris" width="200" class="left">}}
 
-**Dr. Cécile Paris** 
+[**Dr. Cécile Paris** ](https://people.csiro.au/p/c/cecile-paris)
 
 CSIRO, Australia
 
