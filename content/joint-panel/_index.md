@@ -5,16 +5,6 @@ weight: 8
 
 This is a joint panel of two workshops, [JEDI](https://jedi.inertial.science/sigir2026/) and [VulGen](https://vulgen-workshop.github.io/SIGIR2026), bringing together speakers from both communities.
 
-**Moderator:** 
-
-{{<img src="images/maarten.jpg" alt="Prof.dr. Maarten de Rijke" width="200" class="left">}}
-
-[**Prof.dr. Maarten de Rijke**](https://staff.fnwi.uva.nl/m.derijke/)
-
-University of Amsterdam, Netherlands
-
-{{< clear >}}
-
 **Panelists:**
 
 {{<img src="images/faegheh.jpg" alt="Dr. Faegheh Hasibi" width="200" class="left">}}
@@ -57,5 +47,16 @@ Independent Researcher, Canada
 [**Dr. Cécile Paris** ](https://people.csiro.au/p/c/cecile-paris)
 
 CSIRO, Australia
+
+{{< clear >}}
+
+
+**Moderator:** 
+
+{{<img src="images/maarten.jpg" alt="Prof.dr. Maarten de Rijke" width="200" class="left">}}
+
+[**Prof.dr. Maarten de Rijke**](https://staff.fnwi.uva.nl/m.derijke/)
+
+University of Amsterdam, Netherlands
 
 {{< clear >}}
