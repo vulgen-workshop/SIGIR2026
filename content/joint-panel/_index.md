@@ -21,7 +21,7 @@ University of Amsterdam, Netherlands
 
 {{<img src="images/faegheh.jpg" alt="Dr. Faegheh Hasibi" width="200" class="left">}}
 
-- **Dr. Faegheh Hasibi** 
+**Dr. Faegheh Hasibi** 
 
 Radboud University, Netherlands
 
