@@ -1,6 +1,6 @@
 ---
 title: "Call for Submissions"
-weight: 6
+weight: 9
 ---
 
 <!-- ## Summary -->
