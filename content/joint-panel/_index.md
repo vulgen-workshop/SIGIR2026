@@ -1,9 +1,7 @@
 ---
-title: "Joint Panel"
+title: "JEDI-VulGen Joint Panel Session"
 weight: 8
 ---
-
-## Joint Panel Session
 
 This is a joint panel of two workshops, [JEDI](https://jedi.inertial.science/sigir2026/) and [VulGen](https://vulgen-workshop.github.io/SIGIR2026), bringing together speakers from both communities.
 
