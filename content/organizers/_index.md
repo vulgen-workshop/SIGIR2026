@@ -73,5 +73,3 @@ RMIT University, Australia
 - [**Dr Yongli Ren**](https://www.rmit.edu.au/profiles/r/yongli-ren) — RMIT University, Australia
 - [**Dean Mark Sanderson**](https://marksanderson.org/) — RMIT University, Australia
 - [**Dr Paul Thomas**](https://www.microsoft.com/en-us/research/people/pathom/) — Microsoft, United States
-
-*(More to be confirmed...)*
