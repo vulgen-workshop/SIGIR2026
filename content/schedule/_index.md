@@ -17,12 +17,12 @@ weight: 5
 | 11:00 -- 12:00 | Poster and Demonstrations |
 | 12:00 -- 12:30 | [Presentation Session 2: Advancements in LLM-as-a-Judge](#session-2)|
 | 12:30 -- 13:30 | Lunch |
-| 13:30 -- 14:00 | [Keynote by Prof. Chris Leckie](#keynote-speaker)|
+| 13:30 -- 14:00 | [Keynote by Prof. Chris Leckie](keynote-speaker/) |
 | 14:00 -- 15:00 |  Breakout Group Discussion and Report Back|
 | 15:00 -- 15:30 | Coffee Break |
 | 15:30 -- 15:45 | Joint Panel Room Setup (Wall Removal)|
 | 15:45 -- 16:00 | Closing Remarks |
-| 16:00 -- 17:00 | [JEDI](https://jedi.inertial.science/sigir2026/)-VulGen [Joint Panel Session](#joint-panel-session) |
+| 16:00 -- 17:00 | [JEDI](https://jedi.inertial.science/sigir2026/)-VulGen [Joint Panel Session](joint-panel/) |
 
 
 ## Presentation Sessions
@@ -33,7 +33,7 @@ Papers are grouped into sessions by theme, and ordered within each session alpha
 
 ## Keynote and Panel Sessions
 
-Please refer to the dedicated tabs for them on the top of webpages.
+Please refer to tabs of [Keynote Speaker](keynote-speaker/) and [JEDI-VulGen Joint Panel Session](joint-panel).
 
 <!-- ## Keynote Speaker
 
